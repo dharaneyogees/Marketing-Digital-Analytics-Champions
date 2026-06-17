@@ -12,7 +12,7 @@ Below is a high-level conceptual mapping blueprint of our multi-channel user flo
 
 ---
 
-## 📖 The Analytics Story (A to Z Framework)
+## 📖 The Analytics Story 
 
 ### 🎬 Phase 1: The Trap (The Macro View)
 Users enter our marketing pipeline through various channels like Email, Search, and Social Media. 
