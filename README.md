@@ -10,7 +10,6 @@ Below is a high-level conceptual mapping blueprint of our multi-channel user flo
 ![Omnichannel Funnel Map](Marketing Champions.jpg)
 
 
-
 ## The Analytics Story 
 
 ### Phase 1: The Trap (The Macro View)
@@ -29,7 +28,6 @@ Finally, we analyzed campaign lifecycles (15, 30, 45, and 60 days) to see how du
 * The data showed sharp drops at the **15-day** and **45-day** marks.
 * **The Consumer Behavior Insight:** For health and wellness products, consumers need continuous social proof. Short 15-day bursts expire before building brand conviction, while awkward 45-day extensions suffer from audience fatigue without proper narrative resets.
 
----
 
 ## Performance Summary Matrix
 
@@ -40,7 +38,6 @@ Finally, we analyzed campaign lifecycles (15, 30, 45, and 60 days) to see how du
 | **Influencer Campaigns** | Coastal Hubs (MIA/LA) | **7.51%** | ❌ Critical Funnel Leak |
 | **Influencer Campaigns** | Mid/Regional Spends | 7.79% | ⚠️ Underperforming |
 
----
 
 ## Data-Driven Resolution & Action Plan
 To maximize our ROI and fix the broken funnel paths across our acquisition touchpoints, we executed three strategic pivots:
