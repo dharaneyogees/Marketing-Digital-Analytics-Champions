@@ -7,7 +7,7 @@ The marketing team flagged high top-of-funnel engagement across social channels,
 ## Project Architecture & Funnel Overview
 Below is a high-level conceptual mapping blueprint of our multi-channel user flow tracking touchpoints from acquisition to conversion data points:
 
-![Omnichannel Funnel Map](Marketing Champions.jpg)
+![Omnichannel Funnel Map](Marketing%20Champions.jpg)
 
 
 ## The Analytics Story 
