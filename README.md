@@ -50,6 +50,6 @@ To maximize our ROI and fix the broken funnel paths across our acquisition touch
 
 ⭐ **Found this end-to-end framework helpful for real-world business tracking?** Drop a star to save it to your dashboard and help other data professionals discover it! ⭐
 
----
+<hr style="height:1px; border:none; color:#30363d; background-color:#30363d;" />
 
 ⚖️ *Internal Analytics Report — Proprietary Strategy Framework.*
